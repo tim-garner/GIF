@@ -1,0 +1,52 @@
+body {
+    background-image: url("../image/dancingbear.jpg");
+    
+}
+
+button {
+    color: black;
+    font-style: bold;
+    font-size: 175%;
+    letter-spacing: 1px;
+    border: 2px solid;
+    background-color: aqua;
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor: pointer;
+
+}
+
+p {
+    color: black;
+    font-style: bold;
+    font-size: 175%;
+    letter-spacing: 1px;
+    border: 2px solid;
+    background-color: aqua;
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+ 
+
+}
+
+input {
+    float: right;
+    background-color: purple;
+    color: gold;
+    position: relative;
+    display: flex;
+    nav-left: auto
+    
+    
+}
+
+marquee {
+    color: black;
+    font-style: bold;
+    font-size: 200%
+
+}
+
+
